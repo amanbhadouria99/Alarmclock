@@ -18,7 +18,7 @@ To run the alarm clock project on your local machine, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone 
+git clone https://github.com/amanbhadouria99/Alarmclock.git
 
 
 Navigate to the project directory:
@@ -45,8 +45,7 @@ Submit a pull request explaining the changes you've made.
 Contact
 For any questions or inquiries, please contact 
 
-🔗 Author - 
+🔗 Author - Aman Bhadouria - abhadouriaofficial20@gmail.com
 
-✅ Linkedin : 
-✅ Github :            
+✅ Github :      https://github.com/amanbhadouria99      
 Enjoy your alarm clock experience!
